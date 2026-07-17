@@ -3,7 +3,8 @@
  * 基于 Vue 3 的分片上传组件
  */
 
-// 统一导出入口文件
+import "./style.css";
+
 export type {
   ChunkUploadOptions,
   UploadTask,
