@@ -1,6 +1,6 @@
 {
   "name": "vue3-chunked-upload",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "type": "module",
   "description": "基于 Vue 3 的分片上传组件，支持断点续传、并发上传、失败重试等功能",
   "author": "chenkai1993",
